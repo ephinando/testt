@@ -1,3 +1,3 @@
 <?
-echo "asdf";
+echo "coba";
 ?>
